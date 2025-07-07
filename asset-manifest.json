@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-api-exercise/static/css/main.dc4d6ff2.css",
+    "main.js": "/react-api-exercise/static/js/main.e564e450.js",
+    "index.html": "/react-api-exercise/index.html",
+    "main.dc4d6ff2.css.map": "/react-api-exercise/static/css/main.dc4d6ff2.css.map",
+    "main.e564e450.js.map": "/react-api-exercise/static/js/main.e564e450.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.e564e450.js"
+  ]
+}
